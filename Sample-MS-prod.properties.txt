@@ -1,0 +1,3 @@
+message=Hello Wrold Prod
+user.role=prod
+server.port=8090
